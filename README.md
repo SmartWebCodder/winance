@@ -1,4 +1,4 @@
-# Winance
+# Winance App
 
 Winance is a cryptocurrency Exchange App built with Flutter Framework
 
